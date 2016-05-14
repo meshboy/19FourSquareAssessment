@@ -1,0 +1,36 @@
+
+{
+	"status": true,
+	"data": [
+		{
+			"contestant": "Abella Absolon",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium, nisl vel viverra venenatis, sapien erat egestas lorem, et sodales lectus nibh sed ligula. Aenean et aliquet libero. Proin suscipit pellentesque leo ac iaculis. Praesent accumsan lectus a risus gravida, id aliquam ex ornare. Duis elit lectus, facilisis efficitur lacus vitae, euismod placerat nibh. Integer accumsan at elit quis dictum. Integer in libero orci. Vestibulum efficitur euismod sodales. Suspendisse facilisis condimentum quam, in tincidunt enim porta ut. Phasellus feugiat ut tortor et pellentesque. In sagittis quam ut placerat viverra. Integer vel ipsum dolor.",
+			"votes": "245",
+			"image": "abella"
+		},
+		{
+			"contestant": "Acel Aceline",
+			"desc": "Sed ut tellus a metus venenatis malesuada a vel arcu. Vivamus aliquam massa ligula, quis sagittis lorem condimentum a. Phasellus erat mauris, feugiat gravida euismod ac, bibendum placerat maurisam finibus pharetra diam, quis auctor neque vestibulum non. Duis pharetra velit purus, accumsan semper diam euismod a. Mauris aliquam faucibus velit at dignissim. Nam sed tortor in erat molestie faucibus. Nullam pulvinar, ipsum eu varius feugiat, mi enim rutrum urna, quis fringilla ipsum diam non ex. Sed tincidunt mi in urna euismod, et lacinia ipsum sodales.",
+			"votes": "300",
+			"image": "acel"
+		},
+		{
+			"contestant": "Ada Adalene",
+			"desc": "Praesent iaculis interdum sodales. Ut id risus quis quam mattis elementum. Sed in scelerisque lorem, sed gravida odio. Donec venenatis finibus leo, eu eleifend elit gravida non. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce tristique consectetur est, quis vehicula lacus feugiat ac. ",
+			"votes": "456",
+			"image": "ada"
+		},
+		{
+			"contestant": "Adalicia Adalie",
+			"desc": "Ut facilisis volutpat metus, sollicitudin suscipit mi fermentum ac. Duis commodo malesuada massa, ut faucibus dolor commodo et. Praesent eu vehicula massa, eu ultrices elit. Vestibulum at enim in mi varius facilisis sed sed lectus. Etiam non purus vitae orci consectetur maximus vitae eget erat. Nullam porta erat eu dictum ultrices. Ut tempor neque a ultrices maximus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. ",
+			"votes": "800",
+			"image": "adalicia"
+		},
+		{
+			"contestant": "Adaliz Adalyn",
+			"desc": "Cras convallis justo non mi tempor, eget imperdiet diam mattis. Nam vehicula tellus massa, vitae blandit magna aliquam sit amet. Sed laoreet accumsan purus eu eleifend. Aliquam ut orci eget ante consequat venenatis. Proin consectetur pellentesque urna quis varius. Phasellus vestibulum erat velit, a accumsan felis tincidunt et. Nullam a suscipit nisl.",
+			"votes": "920",
+			"image": "adaliz"
+		}
+	]
+}

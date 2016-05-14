@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="303dp"
+            android:layout_height="224dp"
+            android:padding="30dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/splash"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/splash_text"
+            android:textColor="@color/primaryColorDark"
+            android:gravity="center"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/src/main/res/layout/activity_splash.xml -->

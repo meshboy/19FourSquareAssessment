@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.pkmmte.view/circularimageview/1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-a9c236abd56e836d822673662e2cc40e3c175605.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-0da1b8ee1f87d8d0ae659ae9b108f4e652a2797a.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-5542820e1823bcd34a5b3329f78bf52d10d7bfcf.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-b9780160ac80c953a63f80f4c6c4e3eee0b31941.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-264cd53989e3d0a5e09722db315f0ce7603449a7.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-d3a3a19e99fba749507325ba00a21c0c617cc1af.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-fe3f11e43ace4b26d88312bfb370fba1c4dd74ef.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-33686099268508bf9b8edf7127f0f096144fd3dc.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-212828d615a112dacbaceb9282e385e3f40f28ef.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-fc379d319afe628367f51d61200409d4bf9fd54e.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-432451b89fff8a324d82b27cc5f2ba729e471f6b.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-ea21e41e87c659e00af545b324faab6c4d21a659.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/classes-44f9488fc0ced1d56fe9466eb2456722bd2d1f7f.jar" />
+    </item>
+    <item
+        jar="/home/meshboy/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/home/meshboy/Desktop/ViewPagerIndicator-master/library/Assessment/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-e6c5426ee6ab77bfcbf8e40b119a5d7ebfef5b50.jar" />
+    </item>
+
+</items>

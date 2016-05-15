@@ -68,7 +68,6 @@ public class Description extends Fragment {
 
         voteButton = (Button) view.findViewById(R.id.vote);
 
-
         String jsonString = readFile();
 
         contestantList = JsonParser.parseContestant(jsonString);
@@ -148,4 +147,6 @@ public class Description extends Fragment {
 
         return builder.toString();
     }
+
+
 }

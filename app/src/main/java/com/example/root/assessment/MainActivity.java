@@ -1,19 +1,15 @@
 package com.example.root.assessment;
 
-import android.app.Activity;
 import android.app.FragmentTransaction;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 
 import fragment.Description;
 import fragment.ListContestant;
 import utility.OnFragmentNameSelectionChangeListener;
 
 
-public class MainActivity extends AppCompatActivity implements OnFragmentNameSelectionChangeListener{
+public class MainActivity extends AppCompatActivity implements OnFragmentNameSelectionChangeListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,10 +17,10 @@ public class MainActivity extends AppCompatActivity implements OnFragmentNameSel
         setContentView(R.layout.activity_main);
 
 //        add first fragment if the container is right
-        if(findViewById(R.id.fragment_container) != null){
+        if (findViewById(R.id.fragment_container) != null) {
 
 //            if restored from previous state, return to avoid overlapping fragment
-            if(savedInstanceState != null){
+            if (savedInstanceState != null) {
                 return;
             }
 
@@ -40,12 +36,11 @@ public class MainActivity extends AppCompatActivity implements OnFragmentNameSel
 
         Description description = (Description) getFragmentManager().findFragmentById(R.id.description);
 
-        if(description != null){
+        if (description != null) {
 
 //            if description fragment is available, update the content of the description fragment
             description.setDescription(index);
-        }
-        else{
+        } else {
 
             Description newDescription = new Description();
 
@@ -60,6 +55,20 @@ public class MainActivity extends AppCompatActivity implements OnFragmentNameSel
             fragmentTransaction.replace(R.id.fragment_container, newDescription);
             fragmentTransaction.addToBackStack(null);
             fragmentTransaction.commit();
+        }
+
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (getFragmentManager().getBackStackEntryCount() != 0) {
+
+            getFragmentManager().popBackStack();
+
+        } else {
+
+            super.onBackPressed();
+
         }
 
     }
